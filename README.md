@@ -14,7 +14,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝐂𝐀𝐋𝐋+𝐌𝐄+𝐒𝐎𝐍𝐔-𝐗𝐃;+𝐀𝐍𝐃+𝐈+𝐀𝐌+𝐒𝐌𝐀𝐋𝐋+𝐇𝐀𝐂𝐊𝐄𝐑;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐀𝐋𝐋;𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐈𝐍𝐆+𝐌𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐅𝐑𝐈𝐄𝐍𝐃𝐒)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝐂𝐀𝐋𝐋+𝐌𝐄+MK;+𝐀𝐍𝐃+𝐈+𝐀𝐌+𝐒𝐌𝐀𝐋𝐋+𝐇𝐀𝐂𝐊𝐄𝐑;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐀𝐋𝐋;𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐈𝐍𝐆+𝐌𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐅𝐑𝐈𝐄𝐍𝐃𝐒)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
@@ -37,7 +37,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A NoRmaL Termux User </h3>
+<h3 align="center">Welcome To My Account  </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
