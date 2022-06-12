@@ -22,7 +22,7 @@
 
 <p align="center"> 
 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ Profile Visitors
 
  <img src="https://profile-counter.glitch.me/itz-MK-302/count.svg" />
 
@@ -51,7 +51,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- B i L A L   H A i D E R   i D   ＡＬＷＡＹＳ ＨＥＬＰ ＭＥ
+- B i L A L -  H A i D E R -  i D   ＡＬＷＡＹＳ ＨＥＬＰ ＭＥ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -89,9 +89,9 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
-[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/badmash__673/)
+[![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/badmash__673/)
 
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/iimsonu1)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/iimsonu1)
 
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCtRpTQkdoOShDPett68QhOQ)
 
