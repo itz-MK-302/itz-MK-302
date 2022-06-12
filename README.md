@@ -14,8 +14,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝐂𝐀𝐋𝐋+𝐌𝐄+MK;+𝐀𝐍𝐃+𝐈+𝐀𝐌+𝐒𝐌𝐀𝐋𝐋+𝐇𝐀𝐂𝐊𝐄𝐑;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐀𝐋𝐋;𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐈𝐍𝐆+𝐌𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐅𝐑𝐈𝐄𝐍𝐃𝐒)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=CALL+ME+MK;+AnD+i+am+SMaLL+HacKer;Thank+You+AlL;For+Supporting+mE;Love+YoU+Friends)](https://git.io/typing-svg)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 <a href="https://github.com/itz-MK-302"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=itz-MK-302&theme=monokai"></a>
