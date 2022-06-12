@@ -115,4 +115,30 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<h2
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+
+<table border="1">
+
+  <table border="1">
+  <tr>
+    <td valign="top"><a href="https://github.com/itz-MK-302/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=itz-MK-302&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mujtaba GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/itz-MK-302/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-MK-302&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    </a>
+  </tr>
+   <tr>
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=itz-MK-302&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mujtaba GitHub Readme Streak Stats"/> </a>  </td> 
+    
+  </tr>
+</table>
+<br>
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+
+[![MK github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=itz-MK-302&theme=react-dark&area=true&hide_border=true)](https://github.com/itz-MK-302/github-readme-activity-graph)
+
+<a href="https://github.com/itx-MK-302/SM2K9.git"><img title="SM2K9" src="https://github-readme-stats.vercel.app/api/pin/?username=itz-MK-302&repo=SM2K9&theme=gotham"></a>
+
+<a href="https://github.com/itz-MK-302/SSM.git"><img title="SSM" src="https://github-readme-stats.vercel.app/api/pin/?username=itz-MK-302&repo=SSM&theme=gotham"></a>
+
+<a href="https://github.com/itz-MK-302/MK.git"><img title="MK" src="https://github-readme-stats.vercel.app/api/pin/?username=itz-MK-302&repo=MK&theme=gotham"></a>
+
