@@ -6,8 +6,7 @@
 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-  &nbsp;𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐏𝐑𝐎𝐅𝐈𝐋𝐄&nbsp;
-
+  &nbsp; Welcome To My Profile &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
@@ -40,19 +39,19 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- Ｉ ＡＭ  M K 
+- Ｉ  ＡＭ   M K 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ＨＡＣＫＩＮＧ ＩＳ ＭＹ ＨＯＢＢＹ 
+- ＨＡＣＫＩＮＧ  ＩＳ  ＭＹ  ＨＯＢＢＹ 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- Ｉ ＡＭ ＳＭＡＬＬ ＣＯＤＥＲ
+- Ｉ  ＡＭ  ＳＭＡＬＬ  ＣＯＤＥＲ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- B i L A L  H A i D E R  i D  ＡＬＷＡＹＳ ＨＥＬＰ ＭＥ
+- B i L A L   H A i D E R   i D   ＡＬＷＡＹＳ ＨＥＬＰ ＭＥ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -60,7 +59,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- Ｉ ＡＭ  M U S L i M
+- Ｉ  ＡＭ   M U S L i M
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
