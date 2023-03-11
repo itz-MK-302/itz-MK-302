@@ -13,7 +13,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=CALL+ME+MK;+AnD+i+am+SMaLL+HacKer;Thank+You+AlL;For+Supporting+mE;Love+YoU+Friends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=MY+NAME+is+MUJTABA+)](https://git.io/typing-svg)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 <a href="https://github.com/itz-MK-302"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=itz-MK-302&theme=monokai"></a>
@@ -22,11 +22,6 @@
 
 <p align="center"> 
 
- Profile Visitors
-
- <img src="https://profile-counter.glitch.me/itz-MK-302/count.svg" />
-
-</p>
 
 
 ![20200808_160757](https://raw.githubusercontent.com/SONU-XD/NOOB/main/91c8d830ddb838dcab089a3d69490add.jpg)
@@ -39,27 +34,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- Ｉ  ＡＭ   M K 
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ＨＡＣＫＩＮＧ  ＩＳ  ＭＹ  ＨＯＢＢＹ 
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- Ｉ  ＡＭ  ＳＭＡＬＬ  ＣＯＤＥＲ
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- B i L A L -  H A i D E R -  i D   ＡＬＷＡＹＳ ＨＥＬＰ ＭＥ
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- T H A N K S  To SoNu Krishna BiLal Shakib
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- Ｉ  ＡＭ   M U S L i M
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -67,13 +41,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ＩＮＳＴＡＧＲＡＭ :- [Devil Mujoo](https://www.instagram.com/itx_mk_302/)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ＹＯＵＴＵＢＥ :- [Tech MK](https://youtube.com/c/MujtabaKhan302)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ＷＨＡＴＳＡＰＰ :- [Mujtaba](https://wa.me/+923424684410)
 
@@ -97,21 +64,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/+14375009817)
 
-### ⚙️ &nbsp; ＬＡＮＧＵＡＧＥ ＡＮＤ ＰＲＯＧＲＡＭＭＩＮＧ
-
-<h2><img width="25" src="https://github.com/SONU-XD/SONU-XD/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
