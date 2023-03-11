@@ -82,13 +82,3 @@
 </table>
 <br>
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
-
-[![MK github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=itz-MK-302&theme=react-dark&area=true&hide_border=true)](https://github.com/itz-MK-302/github-readme-activity-graph)
-
-<a href="https://github.com/itx-MK-302/SM2K9.git"><img title="SM2K9" src="https://github-readme-stats.vercel.app/api/pin/?username=itz-MK-302&repo=SM2K9&theme=gotham"></a>
-
-<a href="https://github.com/itz-MK-302/SSM.git"><img title="SSM" src="https://github-readme-stats.vercel.app/api/pin/?username=itz-MK-302&repo=SSM&theme=gotham"></a>
-
-<a href="https://github.com/itz-MK-302/MK.git"><img title="MK" src="https://github-readme-stats.vercel.app/api/pin/?username=itz-MK-302&repo=MK&theme=gotham"></a>
-
